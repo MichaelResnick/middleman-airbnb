@@ -1,4 +1,7 @@
-- name: 'Sébastien Saunier'
-  github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
-  github_nickname: 'Papillard'
+- name: 'Michael Resnick'
+  github_nickname: 'MichaelResnick'
+- name: 'Julia Campana'
+  github_nickname: 'JuliaCampana'
+  name: 'Adan Sinning'
+  github_nickname: 'sinninga'
+
